@@ -1,0 +1,90 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Planet Green Plantation Resort - Wayanad
+
+## Skin
+
+### Tooltip
+IconButton_069AFCF9_1C9E_98F8_41AA_EDF2EF9939E8.toolTip = Show all buttons
+IconButton_11F8C692_1C82_6B0B_41B2_28931AB2B43D.toolTip = Previous panorama
+IconButton_128B7B91_1C86_7909_41B8_9320D8E0D421.toolTip = Next panorama
+IconButton_128BCB90_1C86_7907_41B3_46B5B135C181.toolTip = Hide all buttons
+IconButton_1297FF98_1C82_9907_41AD_A09E1EA44354.toolTip = Panorama List
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+IconButton_3BD6FE66_1C9E_9B08_41AE_65363919CAD0.toolTip = Previous panorama
+IconButton_3BF02F26_1C9E_990B_419B_60D4788D76C9.toolTip = Next panorama
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1.toolTip = Photo Album
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1_mobile.toolTip = Photo Album
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801.toolTip = Visit website
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801_mobile.toolTip = Visit website
+
+## Media
+
+### Title
+album_87F8F843_9078_BC9A_41C1_101FADA6C928.label = Planet Green
+album_87F8F843_9078_BC9A_41C1_101FADA6C928_0.label = 5A8A6442
+album_87F8F843_9078_BC9A_41C1_101FADA6C928_1.label = 5A8A6453
+album_87F8F843_9078_BC9A_41C1_101FADA6C928_11.label = IMG_0655
+album_87F8F843_9078_BC9A_41C1_101FADA6C928_12.label = Luxury Cottage Outside
+album_87F8F843_9078_BC9A_41C1_101FADA6C928_13.label = Planet Green Front View
+album_87F8F843_9078_BC9A_41C1_101FADA6C928_2.label = 5A8A6468
+album_87F8F843_9078_BC9A_41C1_101FADA6C928_3.label = 5A8A6472
+album_87F8F843_9078_BC9A_41C1_101FADA6C928_4.label = 5A8A6490
+album_87F8F843_9078_BC9A_41C1_101FADA6C928_5.label = 5A8A6494
+album_87F8F843_9078_BC9A_41C1_101FADA6C928_6.label = 5A8A6629
+album_87F8F843_9078_BC9A_41C1_101FADA6C928_7.label = 5A8A6635
+album_87F8F843_9078_BC9A_41C1_101FADA6C928_9.label = Back View
+panorama_84A6103B_8FE8_ECEA_41E1_45F02903662D.label = Mountain view point
+panorama_85BD8E64_8FE8_B49E_41D3_399C5D9FFC02.label = Streamside
+panorama_85BDDC57_8FE8_74BA_41CD_7DFAF836B10D.label = Premium Suite Room
+panorama_85BDE8D6_8FE8_5DBA_41DD_3DD972293ABE.label = Premium Suite Room
+panorama_85BDFF3F_8FE8_54EA_41B0_ABBD5A84C55C.label = Mountain View - Premium Suite Room
+panorama_85BE1965_8FE8_7C9E_41C8_FB38413B5660.label = Washroom - Premium Suite Room
+panorama_85BE20CC_8FE8_ADAE_41E0_DD078DB9F25D.label = Reception
+panorama_85BE240D_8FEB_D4AE_41A1_777FCB2097AE.label = Wood House
+panorama_85BE2B97_8FEB_B3BA_41D7_4018E1DE27F6.label = Bedroom - Tree House
+panorama_85BE33E3_8FE8_B39A_41CB_034586734365.label = Restaurant
+panorama_85BE410A_8FE8_ACAA_41E1_B17BCA6450CE.label = Restaurant
+panorama_85BE521E_8FEB_ECAA_41CE_B69EF628C2CE.label = Wood House
+panorama_85BE600D_8FEB_ECAE_41DF_60568ECC06B2.label = Washroom - Wood House
+panorama_85BEAE2C_8FEB_D4EE_41E1_566030839866.label = Jacuzzi - Tree House
+panorama_85BEC9B6_8FE8_5FFA_41D4_2DCC3DE40C9B.label = Tree House
+panorama_85BEE639_8FE8_54F6_41DB_74B887415E66.label = Restaurant
+panorama_89EB5809_902B_BC96_41DF_D9EC2677ADEF.label = Resort Entrance
+panorama_9C2EFC9E_908E_DF02_41CF_080DA0146FAD.label = Balcony - Wood House
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_804B3928_8FF8_BC96_41C3_64F904405CF0.toolTip = Reception
+HotspotPanoramaOverlayArea_8080210A_8FFB_ECAA_41DC_EAA144373ACD.toolTip = Premium Suite Room
+HotspotPanoramaOverlayArea_80DE7B00_8FE9_BC96_41AB_F67486094C38.toolTip = Entrance
+HotspotPanoramaOverlayArea_80E2696F_8FF8_7F6A_41E1_89A83914FDD9.toolTip = Reception
+HotspotPanoramaOverlayArea_81207D27_9028_549A_41D1_B4EF65DA3EF2.toolTip = Washroom
+HotspotPanoramaOverlayArea_8120CF93_8FEB_B3BA_4198_084C92CC6737.toolTip = Reception
+HotspotPanoramaOverlayArea_8125FEC7_8FF8_759A_41E1_D380C47505E3.toolTip = Mountain View
+HotspotPanoramaOverlayArea_817DF5CE_903B_D7AA_41D9_90F92AAE346B.toolTip = Tree House
+HotspotPanoramaOverlayArea_8188DCF5_9028_F57E_41DE_126782787495.toolTip = Bedroom
+HotspotPanoramaOverlayArea_8198B4C6_9038_F59A_41C0_DBB884AF9269.toolTip = Restaurant
+HotspotPanoramaOverlayArea_820C00E4_9029_AD9E_41C4_2492F00DC83B.toolTip = Reception
+HotspotPanoramaOverlayArea_82107287_902B_AD9A_41DF_9F0C5C8907AB.toolTip = Balcony
+HotspotPanoramaOverlayArea_828F478C_9028_B3AE_41BF_8A5E85E8278C.toolTip = Streamside
+HotspotPanoramaOverlayArea_82E16EA8_9019_B596_41A3_1C75639A812F.toolTip = Bedroom 
+HotspotPanoramaOverlayArea_82EFC120_901B_AC96_41DB_666D1330A589.toolTip = Wood House
+HotspotPanoramaOverlayArea_83301D9F_9018_57AA_41E0_01805ED9AC74.toolTip = Jacuzzi
+HotspotPanoramaOverlayArea_834D2A81_902B_BD96_41B0_64995FFDE1C2.toolTip = Reception
+HotspotPanoramaOverlayArea_8423E06F_9018_AD6A_41D0_3DBDF3A3D77E.toolTip = Bedroom
+HotspotPanoramaOverlayArea_8425D89D_9018_5DAE_41DD_79DA58BD2E7E.toolTip = Restaurant
+HotspotPanoramaOverlayArea_8463CFD5_9018_73BE_41C5_57BC5F95DE26.toolTip = Treehouse
+
+## Action
+
+### URL
+LinkBehaviour_AB2615D2_BE75_6AB9_41D6_4B86ED01FE33.source = http://planetgreenresorts.com
+LinkBehaviour_AE3BF7BD_BE15_56EB_41E6_DDD23BB66254.source = http://planetgreenresorts.com
